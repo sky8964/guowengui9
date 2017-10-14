@@ -21,9 +21,9 @@
    1. 电脑建议采用下列国际播放器。  
 由于在未翻墙情况下，无法下载或下载慢，此处提供分卷压缩包下载，请下载对应的所有Rar分卷文件，使用压缩工具解压后再安装。
 
-      * SMPlayer【推荐】 下载： [:one:smplayer-17.9.0-win32.part1.rar](https://github.com/sky8964/storage1/raw/master/player/smplayer-17.9.0-win32.part1.rar) [:two:smplayer-17.9.0-win32.part2.rar](https://github.com/sky8964/storage1/raw/master/player/smplayer-17.9.0-win32.part2.rar)
-      * VLC media player 下载： [:one:vlc-2.2.6-win32.part1.rar](https://github.com/sky8964/storage1/raw/master/player/vlc-2.2.6-win32.part1.rar) [:two:vlc-2.2.6-win32.part2.rar](https://github.com/sky8964/storage1/raw/master/player/vlc-2.2.6-win32.part2.rar)
-      * KMPlayer 下载： [:one:KMPlayer_4.2.2.2.part1.rar](https://github.com/sky8964/storage1/raw/master/player/KMPlayer_4.2.2.2.part1.rar) [:two:KMPlayer_4.2.2.2.part2.rar](https://github.com/sky8964/storage1/raw/master/player/KMPlayer_4.2.2.2.part2.rar)
+      * SMPlayer【推荐】 下载： [:one:smplayer-17.9.0-win32.part1.rar](https://sky8964.github.io/storage1/player/smplayer-17.9.0-win32.part1.rar) [:two:smplayer-17.9.0-win32.part2.rar](https://sky8964.github.io/storage1/player/smplayer-17.9.0-win32.part2.rar)
+      * VLC media player 下载： [:one:vlc-2.2.6-win32.part1.rar](https://sky8964.github.io/storage1/player/vlc-2.2.6-win32.part1.rar) [:two:vlc-2.2.6-win32.part2.rar](https://sky8964.github.io/storage1/player/vlc-2.2.6-win32.part2.rar)
+      * KMPlayer 下载： [:one:KMPlayer_4.2.2.2.part1.rar](https://sky8964.github.io/storage1/player/KMPlayer_4.2.2.2.part1.rar) [:two:KMPlayer_4.2.2.2.part2.rar](https://sky8964.github.io/storage1/player/KMPlayer_4.2.2.2.part2.rar)
 1. 请优先看视频，因为本站收录的视频里郭文贵先生都在展示重要的证据。比如：2017-07-17视频、2017-09-24视频 等等
 
 ## 手机、ipad、电脑、智能电视等设备之间互传文件（支持无Wifi）
